@@ -1,0 +1,63 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #ffe6ff !important;
+}
+
+
+._navbar .navbar{
+	background-color: #F24150;
+}
+
+#navbar-brand {
+	color: white !important;
+	font-size: 2em;
+	font-family: "Bowlby One SC";
+	font-weight: bold;
+}
+
+._navbar .nav {
+	background-color: #fde7e9;
+	color: black;
+}
+
+._navbar .navbar .nav a {
+	font-weight: bold;
+	color: black;
+	border-bottom: 1px solid #F24150;
+	margin:0px 5px;
+}
+._navbar .navbar .nav a:hover {
+	background-color: #F24150;
+	color: white;
+	font-size: 0.9em;
+	font-weight: bold;
+	margin:0px 5px;
+}
+
+
+.main .row {
+	background-color: #d9d9d9;
+	margin-top: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 25px;
+
+}
+
+.section {
+	padding: 5px 10px;
+	font-size: 1.1em;
+	color: black;
+}
+
+
+.main h2 {
+	font-weight: bold;
+}
+.main .container h3 {
+	font-weight: bold;
+}
